@@ -26,6 +26,6 @@ i love the movie forest gump
 
 <br>
 
-This site was built using [GitHub Pages](https://pages.github.com/).
+This site was built using [GitHub Pages](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-
+![i hope im doing this right](https://github.com/user-attachments/assets/23d96d08-bae3-4a3c-bb33-2156941cc4f3.webp)
